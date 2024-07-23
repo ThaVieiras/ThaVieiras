@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Thaís Vieira 👩🏾‍💼
+## Bem-vindo(a) ao perfil de Thaís Vieira 🤩
 
  <div>
    <a href="https://github.com/ThaVieiras">
