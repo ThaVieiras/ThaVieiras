@@ -1,4 +1,20 @@
-## Bem-vindo(a) ao perfil de Thaís Vieira 
+## Bem-vindo(a) ao meu perfil, me chamo Thaís 👋
+# Hello! Welcome to my Github profile. My name is Thaís.
+
+
+## 🔭 Atualmente estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" />      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+          
+
+          
+
+
 
  <div>
    <a href="https://github.com/ThaVieiras">
