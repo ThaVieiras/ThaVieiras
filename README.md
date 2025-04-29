@@ -37,8 +37,8 @@ Focused on <strong>UI Design</strong> and <strong>Front End</strong>, I am dedic
 #### *GitHub Stats*
 <div>
   <a href="https://github.com/ThaVieiras">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThaVieiras&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaVieiras&layout=compact&langs_count=6&theme=ayu-mirage"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ThaVieiras&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaVieiras&layout=compact&langs_count=6&theme=ayu-mirage"/>
 </div>
 
 ---
