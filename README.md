@@ -5,13 +5,17 @@
 
 ### Sobre Mim 
 <div style="font-size: 14px";>
-Focada em <strong>UI Design</strong> e <strong>Front End</strong>, dedico-me aos estudos visando transitar para uma carreira onde possa criar interfaces e experiências digitais. Minha base anterior como <strong>Analista de Qualidade (QA)</strong> em logística me proporcionou forte atenção a detalhes e foco em qualidade. Busco minha primeira oportunidade nestas áreas, pronta para aprender e aplicar meus conhecimentos com muita dedicação e proatividade.
+Desenvolvedora Web Júnior em formação, com foco em **Front-End** e **UI Design**. Vindo de uma trajetória como **Analista de Qualidade**, trago para a programação um olhar apurado para detalhes, um forte senso de **qualidade** e a paixão por criar interfaces que sejam funcionais e intuitivas.
+
+Com conhecimentos em **HTML, CSS e JavaScript**, construo experiências digitais fluidas e responsivas. Estou me aprofundando em **Back-End** (pelo Senai) para me tornar uma profissional mais completa e busco uma oportunidade para iniciar minha carreira, aplicando proatividade e dedicação em cada novo desafio.
 </div>
 
 ---
 #### *About Me*
 <div style="font-size: 10px";>
-Focused on <strong>UI Design</strong> and <strong>Front End</strong>, I am dedicating myself to studies aiming to transition into a career where I can create digital interfaces and experiences. My previous background as a <strong>Quality Analyst (QA)</strong> in logistics provided me with strong attention to detail and a focus on quality. I am seeking my first opportunity in these areas, ready to learn and apply my knowledge with great dedication and proactivity.
+Junior Web Developer in training, with a focus on **Front-End** and **UI Design**. Coming from a background as a **Quality Analyst**, I bring to programming a keen eye for detail, a strong sense of **quality**, and a passion for creating functional and intuitive interfaces.
+
+With knowledge of **HTML, CSS, and JavaScript**, I build fluid and responsive digital experiences. I am currently deepening my knowledge in **Back-End** (at Senai) to become a more complete professional and am seeking an opportunity to start my career, applying proactivity and dedication to every new challenge.
 </div>
 
 ---
