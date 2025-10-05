@@ -4,8 +4,8 @@
 ---
 
 ### Sobre Mim 
-<div style="font-size: 14px";>
-Desenvolvedora Web Júnior em formação, com foco em **Front-End** e **UI Design**. Vindo de uma trajetória como **Analista de Qualidade**, trago para a programação um olhar apurado para detalhes, um forte senso de **qualidade** e a paixão por criar interfaces que sejam funcionais e intuitivas.
+<div style="font-size: 12px";>
+Desenvolvedora Web Júnior em formação, com foco em Front-End e UI Design. Vindo de uma trajetória como Analista de Qualidade, trago para a programação um olhar apurado para detalhes, um forte senso de **qualidade** e a paixão por criar interfaces que sejam funcionais e intuitivas.
 
 Com conhecimentos em **HTML, CSS e JavaScript**, construo experiências digitais fluidas e responsivas. Estou me aprofundando em **Back-End** (pelo Senai) para me tornar uma profissional mais completa e busco uma oportunidade para iniciar minha carreira, aplicando proatividade e dedicação em cada novo desafio.
 </div>
@@ -13,7 +13,7 @@ Com conhecimentos em **HTML, CSS e JavaScript**, construo experiências digitais
 ---
 #### *About Me*
 <div style="font-size: 10px";>
-Junior Web Developer in training, with a focus on **Front-End** and **UI Design**. Coming from a background as a **Quality Analyst**, I bring to programming a keen eye for detail, a strong sense of **quality**, and a passion for creating functional and intuitive interfaces.
+Junior Web Developer in training, with a focus on Front-End and UI Design. Coming from a background as a Quality Analyst, I bring to programming a keen eye for detail, a strong sense of **quality**, and a passion for creating functional and intuitive interfaces.
 
 With knowledge of **HTML, CSS, and JavaScript**, I build fluid and responsive digital experiences. I am currently deepening my knowledge in **Back-End** (at Senai) to become a more complete professional and am seeking an opportunity to start my career, applying proactivity and dedication to every new challenge.
 </div>
