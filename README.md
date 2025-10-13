@@ -1,44 +1,63 @@
-# Olá, bem vindo(a) ao meu perfil, me chamo Thaís 👋
-#### *Hello! Welcome to my Github profile. My name is Thaís.*
+# Olá, bem vindo(a) ao meu perfil👋
 
 ---
 
-### Sobre Mim 
+### Desenvolvedor Full-Stack Júnior em formação | Foco em UX/UI e Performance.
 <div style="font-size: 12px";>
-Desenvolvedora Web Júnior em formação, com foco em Front-End e UI Design. Vindo de uma trajetória como Analista de Qualidade, trago para a programação um olhar apurado para detalhes, um forte senso de **qualidade** e a paixão por criar interfaces que sejam funcionais e intuitivas.
 
-Com conhecimentos em **HTML, CSS e JavaScript**, construo experiências digitais fluidas e responsivas. Estou me aprofundando em **Back-End** (pelo Senai) para me tornar uma profissional mais completa e busco uma oportunidade para iniciar minha carreira, aplicando proatividade e dedicação em cada novo desafio.
+Minha paixão é criar soluções digitais completas. Minha base sólida em Front-End (HTML, CSS, JavaScript) é complementada por uma jornada estratégica em Back-End e Banco de Dados (MySQL).
+
+Trago da minha experiência anterior em Logística e Qualidade (QA) um olhar apurado para otimização de processos e excelência. Isso me permite construir interfaces funcionais e intuitivas (UX/UI) e, ao mesmo tempo, garantir a performance e a qualidade do sistema de ponta a ponta.
+
+Estou ativamente buscando oportunidades para aplicar minha proatividade e raciocínio lógico em desafios que envolvam a arquitetura completa de aplicações.
 </div>
 
 ---
-#### *About Me*
-<div style="font-size: 10px";>
-Junior Web Developer in training, with a focus on Front-End and UI Design. Coming from a background as a Quality Analyst, I bring to programming a keen eye for detail, a strong sense of **quality**, and a passion for creating functional and intuitive interfaces.
+#### Desenvolvimento Full-Stack | (Cursando)
+<div style="font-size: 12px";>
 
-With knowledge of **HTML, CSS, and JavaScript**, I build fluid and responsive digital experiences. I am currently deepening my knowledge in **Back-End** (at Senai) to become a more complete professional and am seeking an opportunity to start my career, applying proactivity and dedication to every new challenge.
+Back-End: Programação Orientada a Objetos (POO), Protocolo HTTP (GET, POST, PUT), Segurança da Informação.
+
+APIs: Linguagem para APIs, Metodologias Ágeis para desenvolvimento de APIs, Consumo de APIs REST (JSON/XML).
+
+Banco de Dados: Linguagem SQL para Manipulação (CRUD) e Definição de Dados, Persistência de Dados, Configuração de Gerenciadores.
+
+
+Front-End: HTML Semântico, CSS, JavaScript, Usabilidade, Acessibilidade, Responsividade, Arquitetura da Informação.
+
+UX/UI: Prototipagem, Otimização de Imagens (vetoriais e bitmaps), Elementos Visuais de Navegação.
+
+Qualidade e Processos: Execução e Recomendações de Testes, Implantação de Sistemas, Metodologias de Desenvolvimento Ágeis (Git/Versionamento).
+
 </div>
 
 ---
 ### Habilidades e Ferramentas 
-#### *Skills and Tools*
-
 <div style="display: inline_block"><br>
-<img align="center" alt="VSCode" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"/>
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
-  <img align="center" alt="CUCUMBER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg"/>
+<img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"/><br>
+ 
+<img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>
+
+<img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
+
+<img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br>
+
+  <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /><br>
+  
+  <img align="center" alt="Trello" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" /><br>
+  
+  <img align="center" alt="Notion" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" /> <br>
+  <img align="center" alt="MySQL" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /><br>
+          
   <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img align="center" alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
-  <img align="center" alt="Notion" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />       
+  
+       
   </div>
 
 
 ---
 ### Estatísticas do GitHub
-#### *GitHub Stats*
 <div>
   <a href="https://github.com/ThaVieiras">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ThaVieiras&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
