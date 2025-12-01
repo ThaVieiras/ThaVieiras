@@ -7,15 +7,15 @@ Minha paixão é criar soluções digitais completas. Minha base sólida em **Fr
 
 ---
 
-## 🚀 Evolução Técnica através de Projetos
+### 🚀 Evolução Técnica através de Projetos
 
 Abaixo, apresento como minhas habilidades vêm sendo construídas na prática, partindo da interface para a arquitetura de sistemas:
 
 | Fase | Foco & Aprendizado | Stack Principal | Ver Projeto |
 | :--- | :--- | :--- | :---: |
-| **1. Fundamentos & UX** | Estruturação semântica, acessibilidade e design responsivo. Criação de layouts focados na experiência do usuário. | `HTML` `CSS` `Figma` | [Nome do Repo](LINK_DO_REPO) |
-| **2. Lógica & Dinâmica** | Manipulação do DOM, interatividade no Front-end e primeiros passos na lógica de servidor com XML/JSON. | `JavaScript` `PHP` `XML` | [Signos Zodiacais](LINK_DO_REPO) |
-| **3. Arquitetura & Back-End** | Desenvolvimento de APIs REST, CRUD, POO e persistência de dados complexos. | `Java` `Spring Boot` `MySQL` | [Nome do Repo](LINK_DO_REPO) |
+| **1. UI/UX & Interatividade** | **Destaque:** Fan Page interativa com foco em design imersivo, hierarquia visual e experiência do usuário. | `HTML` `CSS` `JS` | [FC Bayern Page](https://github.com/ThaVieiras/Torcida-Bayern-Fem) |
+| **2. Arquitetura & Ágil** | Estruturação de projeto do zero: Modelagem de Banco de Dados e gestão de tarefas (Sprints) via Kanban. | `SQL` `Kanban` `Docs` | [Planejamento Estoque](https://github.com/users/ThaVieiras/projects/2/views/1) |
+| **3. Back-End & Teamwork** | **Projeto em Equipe (Senai):** Desenvolvimento colaborativo de plataforma de eventos. Foco em Java e versionamento de código (Git). | `Java` `Git` `POO` | [EventUp - Senai Back End](https://github.com/WeslleyRocha/EventUp) |
 
 ---
 
