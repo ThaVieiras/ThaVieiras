@@ -14,8 +14,8 @@ Abaixo, apresento como minhas habilidades vêm sendo construídas na prática, p
 | Fase | Foco & Aprendizado | Stack Principal | Ver Projeto |
 | :--- | :--- | :--- | :---: |
 | **1. UI/UX & Interatividade** | **Destaque:** Fan Page interativa com foco em design imersivo, hierarquia visual e experiência do usuário. | `HTML` `CSS` `JS` | [FC Bayern Page](https://github.com/ThaVieiras/Torcida-Bayern-Fem) |
-| **2. Arquitetura & Ágil** | Estruturação de projeto do zero: Modelagem de Banco de Dados e gestão de tarefas (Sprints) via Kanban. | `SQL` `Kanban` `Docs` | [Planejamento Estoque](https://github.com/users/ThaVieiras/projects/2/views/1) |
-| **3. Back-End & Teamwork** | **Projeto em Equipe (Senai):** Desenvolvimento colaborativo de plataforma de eventos. Foco em Java e versionamento de código (Git). | `Java` `Git` `POO` | [EventUp - Senai Back End](https://github.com/WeslleyRocha/EventUp) |
+| **2. Back-End & Teamwork** | **Projeto em Equipe (Senai):** Desenvolvimento colaborativo de plataforma de eventos. Foco em Java e versionamento de código (Git). | `Java` `Git` `POO` | [EventUp - Senai Back End](https://github.com/WeslleyRocha/EventUp) |
+| **3. Arquitetura & Ágil** | Estruturação de projeto do zero: Modelagem de Banco de Dados e gestão de tarefas (Sprints) via Kanban. | `SQL` `Kanban` `Docs` | [Planejamento Estoque](https://github.com/users/ThaVieiras/projects/2/views/1) |
 
 ---
 
