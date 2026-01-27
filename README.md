@@ -1,53 +1,57 @@
 # Olá, bem-vindo(a) ao meu perfil! 👋🏾
 
-### 👩🏽‍💻 Desenvolvedora Full-Stack Júnior em formação | Foco em UX/UI e Performance
-Minha paixão é criar soluções digitais completas. Minha base sólida em **Front-End** (HTML, CSS, JavaScript) é complementada por uma jornada estratégica em **Back-End** (Java, PHP) e Banco de Dados.
+### 👩🏽‍💻 Analista de Tecnologia | Foco em Lógica, Dados e Qualidade | UX/UI e Performance
+Minha jornada na tecnologia é marcada pela busca em entender "como as coisas funcionam" de ponta a ponta. Minha base técnica em **Desenvolvimento Full-Stack** (Java, SQL, Angular) se soma à minha experiência corporativa em **QA e Logística** para criar um perfil analítico e resolutivo.
 
-> **Diferencial:** Trago de minha experiência anterior em **Logística e Qualidade (QA)** um olhar apurado para otimização de processos e prevenção de erros. Isso me permite construir interfaces intuitivas (UX/UI) garantindo, simultaneamente, a performance e a integridade do sistema.
+Atualmente, estou direcionando essa bagagem para a área de **Análise de Dados**, utilizando a lógica de programação e a estrutura de bancos de dados para gerar valor e inteligência de negócio.
 
 ---
 
-### 🚀 Evolução Técnica através de Projetos
+### 🚀 Minha Trajetória (A Lógica da Transição)
 
-Abaixo, apresento como minhas habilidades vêm sendo construídas na prática, partindo da interface para a arquitetura de sistemas:
+Abaixo, apresento como cada etapa da minha formação contribui para meu perfil atual:
 
-| Fase | Foco & Aprendizado | Stack Principal | Ver Projeto |
-| :--- | :--- | :--- | :---: |
-| **1. UI/UX & Interatividade** | **Destaque:** Fan Page interativa com foco em design imersivo, hierarquia visual e experiência do usuário. | `HTML` `CSS` `JS` | [FC Bayern Page](https://github.com/ThaVieiras/Torcida-Bayern-Fem) |
-| **2. Back-End & Teamwork** | **Projeto em Equipe (Senai):** Desenvolvimento colaborativo de plataforma de eventos. Foco em Java e versionamento de código (Git). | `Java` `Git` `POO` | [EventUp - Senai Back End](https://github.com/WeslleyRocha/EventUp) |
-| **3. Arquitetura & Ágil** | Estruturação de projeto do zero: Modelagem de Banco de Dados e gestão de tarefas (Sprints) via Kanban. | `SQL` `Kanban` `Docs` | [Planejamento Estoque](https://github.com/users/ThaVieiras/projects/2/views/1) |
+| Fase | O que desenvolvi (Hard & Soft Skills) |
+| :--- | :--- |
+| **1. Base de Negócios & QA** <br> *(JSL S/A)* | **Olhar Analítico:** Mapeamento de processos, validação de regras de negócio e garantia da integridade da informação em sistemas críticos. |
+| **2. Estrutura Técnica** <br> *(Java & SQL)* | **Engenharia de Dados:** Compreensão profunda de como os dados são estruturados no Back-End e armazenados em Bancos de Dados Relacionais. |
+| **3. Interface & Visualização** <br> *(Front-End)* | **Storytelling:** Habilidade de apresentar informações de forma clara e hierarquizada (HTML/CSS), essencial para futuros dashboards e relatórios. |
 
 ---
 
 ## 🛠️ Habilidades e Ferramentas
 
-### 🎨 Front-End & Design (Conhecimentos Sólidos)
-<div style="display: inline_block">
-  <img align="center" alt="Figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img align="center" alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="VSCode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"/>
-</div>
+Minha caixa de ferramentas combina a técnica do desenvolvimento com a organização do QA:
 
-### ⚙️ Back-End & Banco de Dados (Em Aprofundamento)
-*Estudos atuais focados em Java (Spring Ecosystem) e modelagem de dados.*
+#### ⚙️ Lógica, Back-End & Dados
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+* **Foco:** Lógica de Programação, POO, Consultas SQL, Modelagem de Dados.
 
-<div style="display: inline_block">
-  <img align="center" alt="Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Spring" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="center" alt="MySQL" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="PHP" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-</div>
+#### 🎨 Front-End (Visualização & Estrutura)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* **Foco:** Estruturação de páginas, hierarquia da informação e consumo de APIs.
 
-## 🗂️ Organização & Métodos
-`Scrum/Kanban` • `Trello/Notion` • `Git/GitHub` • `QA/Testes`
+#### 📂 Organização & Métodos
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Scrum](https://img.shields.io/badge/SCRUM-Agile-blue?style=for-the-badge)
+* **Foco:** Metodologias Ágeis, Documentação de Processos, Testes e Qualidade.
+
+### 🧩 Projetos em Destaque
+
+Como aplico minha visão técnica na prática:
+
+| Stack Principal | Projeto | Foco do Desenvolvimento |
+| :--- | :--- | :--- |
+| `Java` `Git` `POO` | **[EventUp - Backend System](LINK_DO_SEU_REPOSITORIO)** | **Lógica & Estrutura:** Desenvolvimento colaborativo focando em regras de negócio, tratamento de dados e versionamento de código. |
+| `SQL` `Kanban` | **[Planejamento & Modelagem](LINK_DO_SEU_REPOSITORIO)** | **Arquitetura:** Estruturação de banco de dados do zero e gestão de tarefas (Sprints) via Kanban. |
+| `HTML` `CSS` `JS` | **[FC Bayern Page](LINK_DO_SEU_REPOSITORIO)** | **UI & Hierarquia:** Organização visual da informação e experiência do usuário (base para visualização de dados). |
 
 ---
 
 ## 📫 Contato
 
+Estou sempre aberta a trocar ideias sobre tecnologia, dados e processos!
+
 <div>
   <a href="https://www.linkedin.com/in/thaisvieiras" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&style=for-the-badge"></a>
-  <a href="mailto:tvs01@hotmail.com"><img src="https://img.shields.io/badge/Email-Entre_em_contato-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="mailto:tvs01@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
